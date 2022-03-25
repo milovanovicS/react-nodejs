@@ -1,0 +1,31 @@
+
+body {
+padding:20px;
+background: #f5f5ff;
+color: black;
+border: 10px dotted lightblue;
+font-weight: bold;
+border-radius: 4px;
+font-family: 'Lato', sans-serif;
+}
+
+p,h2,h3 {
+  font-family: 'Lato', sans-serif;
+}
+
+.btn-primary {
+  background-color: aliceblue;
+  color: black;
+}
+
+th {
+  max-width: 100px;
+}
+
+#heading-div {
+background-color: aqua;
+border: 10px dotted darkblue;
+text-align: center;
+font-style: italic;
+font-family: "Times New Roman", Times, serif;
+}
